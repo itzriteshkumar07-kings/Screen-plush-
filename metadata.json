@@ -1,0 +1,6 @@
+{
+  "name": "Screen Time Tracker",
+  "description": "An advanced Screen Time Tracker with detailed app statistics, category usage analytics, app limits, focus modes, bedtime rules, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
